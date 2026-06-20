@@ -7,8 +7,8 @@
 
 <br>
 
-> **Ex-Framer web designer turned developer — Laravel, Vue.js, Java. DJ by night, dev the rest of the time.**
-> *My ADHD drives me to optimize, automate, and self-host everything.*<br>*Looking for a 14-month apprenticeship starting September 2026.*
+> **Ex-webdesigner Framer reconverti dev — Laravel, Vue.js, Java. DJ à mes heures, dev le reste du temps.**
+> *Mon TDAH me pousse à tout optimiser, automatiser et auto-héberger.*<br>*En recherche d'alternance 14 mois à partir de septembre 2026.*
 
 <br>
 
@@ -23,14 +23,14 @@
 
 </div>
 
-<h3 align="center">🛠️ Tech Stack 🛠️</h3>
+<h3 align="center">🛠️ Stack Technique 🛠️</h3>
 
 <table>
   <tr>
     <td align="left" valign="top" width="441px">
-      <h4>👨‍💻 Languages</h4>
+      <h4>👨‍💻 Langages</h4>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=php,js,ts,py,java,bash&perline=3&theme=dark" alt="Languages" />
+        <img src="https://skillicons.dev/icons?i=php,js,ts,py,java,bash&perline=3&theme=dark" alt="Langages" />
       </a>
       <br><br>
       <h4>⚙️ DevOps</h4>
@@ -44,15 +44,15 @@
         <img src="https://skillicons.dev/icons?i=laravel,vue,nuxtjs,react,tailwind,mysql&perline=3&theme=dark" alt="Frameworks" />
       </a>
       <br><br>
-      <h4>🛠️ Tools</h4>
+      <h4>🛠️ Outils</h4>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,obsidian,figma,neovim,blender,bun&perline=3&theme=dark" alt="Tools" />
+        <img src="https://skillicons.dev/icons?i=git,obsidian,figma,neovim,blender,bun&perline=3&theme=dark" alt="Outils" />
       </a>
     </td>
   </tr>
 </table>
 
-<h3 align="center">✨ Featured Projects ✨</h3>
+<h3 align="center">✨ Projets Phares ✨</h3>
   <table >
     <tr>
       <td  align="left" valign="center">
@@ -76,7 +76,7 @@
 </p>
 
 <p align="center">
-  🌐 <a href="README_FR.md">Version française</a>
+  🌐 <a href="README.md">English version</a>
 </p>
 
 <p align="center">
