@@ -5,7 +5,7 @@
   Accent: #6366f1 (indigo)
 -->
 
-<picture>
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Sora&weight=800&size=42&duration=2000&pause=1000&color=ededef&center=true&vCenter=true&width=600&height=80&lines=Sofian+BELLOUL" />
   <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=800&size=42&duration=2000&pause=1000&color=111113&center=true&vCenter=true&width=600&height=80&lines=Sofian+BELLOUL" alt="Sofian BELLOUL" />
 </picture>
@@ -24,7 +24,9 @@
 
 <br />
 
-> Designer Framer reconverti dev — Laravel, Vue.js, Java. Mon TDAH me pousse à tout optimiser : workflows, archis complexes, et en ce moment ma transition vers un workflow full terminal.
+> Designer Framer reconverti dev — Laravel, Vue.js, Java.</br>
+> Mon TDAH me pousse à tout optimiser : workflows, archis complexes, et en ce moment ma transition vers un workflow full terminal.</br>
+
 > **Recherche contrat d'alternance — sept. 2026 · 14 mois · rythme 6/2 sem.**
 
 <br />
