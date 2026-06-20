@@ -38,48 +38,101 @@
 
 ### 🧰 Stack
 
-<table>
-<tr>
-<td width="50%">
+<br />
 
-<h4 align="center"><span style="color:#0055ff">▸</span> Web Dev</h4>
+<!-- WEB DEV CARD -->
+<svg width="100%" viewBox="0 0 840 115" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="c1"><rect x="0" y="0" width="840" height="115" rx="14"/></clipPath>
+  </defs>
+  <g clip-path="url(#c1)">
+    <rect x="0" y="0" width="840" height="115" fill="#ffffff" stroke="#dcdce0" stroke-width="1"/>
+    <rect x="0" y="0" width="5" height="115" fill="#0055ff"/>
+  </g>
+  <circle cx="18" cy="28" r="4" fill="#0055ff"/>
+  <text x="28" y="33" font-family="Sora,-apple-system,sans-serif" font-weight="800" font-size="15" fill="#111113">Web Dev</text>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,vue,ts,tailwind,nuxt,java,go,py,bun,mysql&perline=5" />
-</p>
+  <!-- Row 1 -->
+  <image href="https://img.shields.io/badge/Laravel-ff2d20?style=flat-square&amp;logo=laravel&amp;logoColor=white" x="28" y="50" height="22"/>
+  <image href="https://img.shields.io/badge/Vue_3-42b883?style=flat-square&amp;logo=vuedotjs&amp;logoColor=white" x="116" y="50" height="22"/>
+  <image href="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&amp;logo=typescript&amp;logoColor=white" x="190" y="50" height="22"/>
+  <image href="https://img.shields.io/badge/Tailwind-06b6d4?style=flat-square&amp;logo=tailwindcss&amp;logoColor=white" x="306" y="50" height="22"/>
+  <image href="https://img.shields.io/badge/Nuxt-00dc82?style=flat-square&amp;logo=nuxtdotjs&amp;logoColor=white" x="400" y="50" height="22"/>
 
-</td>
-<td width="50%">
+  <!-- Row 2 -->
+  <image href="https://img.shields.io/badge/Java-e76f00?style=flat-square&amp;logo=openjdk&amp;logoColor=white" x="28" y="82" height="22"/>
+  <image href="https://img.shields.io/badge/Go-00add8?style=flat-square&amp;logo=go&amp;logoColor=white" x="98" y="82" height="22"/>
+  <image href="https://img.shields.io/badge/Python-3776ab?style=flat-square&amp;logo=python&amp;logoColor=white" x="158" y="82" height="22"/>
+  <image href="https://img.shields.io/badge/Bun-000000?style=flat-square&amp;logo=bun&amp;logoColor=white" x="256" y="82" height="22"/>
+  <image href="https://img.shields.io/badge/MySQL-00618a?style=flat-square&amp;logo=mysql&amp;logoColor=white" x="322" y="82" height="22"/>
+</svg>
 
-<h4 align="center"><span style="color:#06b6d4">▸</span> DevOps & Infra</h4>
+<br />
+<br />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,linux,bash&perline=4" />
-</p>
+<!-- DEVOPS CARD -->
+<svg width="100%" viewBox="0 0 840 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="c2"><rect x="0" y="0" width="840" height="100" rx="14"/></clipPath>
+  </defs>
+  <g clip-path="url(#c2)">
+    <rect x="0" y="0" width="840" height="100" fill="#ffffff" stroke="#dcdce0" stroke-width="1"/>
+    <rect x="0" y="0" width="5" height="100" fill="#06b6d4"/>
+  </g>
+  <circle cx="18" cy="28" r="4" fill="#06b6d4"/>
+  <text x="28" y="33" font-family="Sora,-apple-system,sans-serif" font-weight="800" font-size="15" fill="#111113">DevOps &amp; Infra</text>
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+  <image href="https://img.shields.io/badge/Docker-2496ed?style=flat-square&amp;logo=docker&amp;logoColor=white" x="28" y="52" height="22"/>
+  <image href="https://img.shields.io/badge/GitHub_Actions-2088ff?style=flat-square&amp;logo=githubactions&amp;logoColor=white" x="112" y="52" height="22"/>
+  <image href="https://img.shields.io/badge/Linux-1793d1?style=flat-square&amp;logo=linux&amp;logoColor=white" x="252" y="52" height="22"/>
+  <image href="https://img.shields.io/badge/SOPS%2FAge-5b21b6?style=flat-square&amp;logo=gnuprivacyguard&amp;logoColor=white" x="326" y="52" height="22"/>
+  <image href="https://img.shields.io/badge/n8n-ea4b71?style=flat-square&amp;logo=n8n&amp;logoColor=white" x="440" y="52" height="22"/>
+</svg>
 
-<h4 align="center"><span style="color:#10b981">▸</span> AI & Agents</h4>
+<br />
+<br />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,playwright&perline=4" />
-</p>
+<!-- AI & AGENTS CARD -->
+<svg width="100%" viewBox="0 0 840 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="c3"><rect x="0" y="0" width="840" height="100" rx="14"/></clipPath>
+  </defs>
+  <g clip-path="url(#c3)">
+    <rect x="0" y="0" width="840" height="100" fill="#ffffff" stroke="#dcdce0" stroke-width="1"/>
+    <rect x="0" y="0" width="5" height="100" fill="#10b981"/>
+  </g>
+  <circle cx="18" cy="28" r="4" fill="#10b981"/>
+  <text x="28" y="33" font-family="Sora,-apple-system,sans-serif" font-weight="800" font-size="15" fill="#111113">AI &amp; Agents</text>
 
-</td>
-<td width="50%">
+  <image href="https://img.shields.io/badge/Gemini-4285f4?style=flat-square&amp;logo=googlegemini&amp;logoColor=white" x="28" y="52" height="22"/>
+  <image href="https://img.shields.io/badge/Claude-d97706?style=flat-square&amp;logo=anthropic&amp;logoColor=white" x="112" y="52" height="22"/>
+  <image href="https://img.shields.io/badge/Agents%2FMCP-6366f1?style=flat-square&amp;logo=robotframework&amp;logoColor=white" x="198" y="52" height="22"/>
+  <image href="https://img.shields.io/badge/Playwright-2ead33?style=flat-square&amp;logo=playwright&amp;logoColor=white" x="332" y="52" height="22"/>
+  <image href="https://img.shields.io/badge/RAG-10b981?style=flat-square&amp;logo=openai&amp;logoColor=white" x="448" y="52" height="22"/>
+</svg>
 
-<h4 align="center"><span style="color:#f59e0b">▸</span> Tools & CLI</h4>
+<br />
+<br />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=neovim,figma,blender,obsidian,md&perline=5" />
-</p>
+<!-- TOOLS & CLI CARD -->
+<svg width="100%" viewBox="0 0 840 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="c4"><rect x="0" y="0" width="840" height="100" rx="14"/></clipPath>
+  </defs>
+  <g clip-path="url(#c4)">
+    <rect x="0" y="0" width="840" height="100" fill="#ffffff" stroke="#dcdce0" stroke-width="1"/>
+    <rect x="0" y="0" width="5" height="100" fill="#f59e0b"/>
+  </g>
+  <circle cx="18" cy="28" r="4" fill="#f59e0b"/>
+  <text x="28" y="33" font-family="Sora,-apple-system,sans-serif" font-weight="800" font-size="15" fill="#111113">Tools &amp; CLI</text>
 
-</td>
-</tr>
-</table>
+  <image href="https://img.shields.io/badge/Neovim-57a143?style=flat-square&amp;logo=neovim&amp;logoColor=white" x="28" y="52" height="22"/>
+  <image href="https://img.shields.io/badge/Figma-f24e1e?style=flat-square&amp;logo=figma&amp;logoColor=white" x="118" y="52" height="22"/>
+  <image href="https://img.shields.io/badge/Blender-ea7600?style=flat-square&amp;logo=blender&amp;logoColor=white" x="198" y="52" height="22"/>
+  <image href="https://img.shields.io/badge/Bash-3e3e3e?style=flat-square&amp;logo=gnubash&amp;logoColor=white" x="298" y="52" height="22"/>
+  <image href="https://img.shields.io/badge/Obsidian-7c3aed?style=flat-square&amp;logo=obsidian&amp;logoColor=white" x="372" y="52" height="22"/>
+  <image href="https://img.shields.io/badge/SSH-1793d1?style=flat-square&amp;logo=linux&amp;logoColor=white" x="476" y="52" height="22"/>
+</svg>
 
 <br />
 
