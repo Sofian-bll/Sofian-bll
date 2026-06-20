@@ -15,6 +15,11 @@
 <a href="https://sofianbll.dev"><img src="https://img.shields.io/badge/Portfolio-6366f1?style=flat&logo=safari&logoColor=white" alt="Portfolio"/></a>
 <a href="https://linkedin.com/in/sofianbll"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:sofian.belloul@epitech.eu"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+<p align="center">
+  <a href="https://github.com/Sofian-bll">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=Sofian-bll&data=followers,repositories,stars,commits&theme=darkmode" alt="GitHub Profile Widget" />
+  </a>
+</p>
 
 </div>
 
@@ -62,14 +67,6 @@
       </td>
     </tr>
   </table>
-
-### 📊 Statistiques GitHub
-
-<p align="center">
-  <a href="https://github.com/Sofian-bll">
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=Sofian-bll&data=followers,repositories,stars,commits&theme=darkmode" alt="GitHub Profile Widget" />
-  </a>
-</p>
 
 <p align="center">
   <picture>
