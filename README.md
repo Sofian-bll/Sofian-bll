@@ -27,22 +27,18 @@
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=php,js,ts,py,java,bash&perline=3&theme=dark" alt="Langages" />
       </a>
-    </td>
-    <td align="right" valign="top" width="50%">
-      <h4>📦 Frameworks</h4>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=laravel,vue,nuxtjs,react,tailwind,mysql&perline=3&theme=dark" alt="Frameworks" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="left" valign="top" width="50%">
+      <br><br>
       <h4>⚙️ DevOps</h4>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=docker,linux,githubactions,cloudflare,gcp,ansible&perline=3&theme=dark" alt="DevOps" />
       </a>
     </td>
     <td align="right" valign="top" width="50%">
+      <h4>📦 Frameworks</h4>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=laravel,vue,nuxtjs,react,tailwind,mysql&perline=3&theme=dark" alt="Frameworks" />
+      </a>
+      <br><br>
       <h4>🛠️ Outils</h4>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=git,obsidian,figma,neovim,blender,bun&perline=3&theme=dark" alt="Outils" />
