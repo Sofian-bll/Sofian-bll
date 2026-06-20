@@ -21,38 +21,30 @@
 ### 🛠️ Stack Technique
 
 <table>
-  <thead>
-    <tr>
-      <th width="441px" height="1"></th>
-      <th width="441px" height="1"></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="left" valign="top">
-        <h4>👨‍💻 Langages</h4>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=php,js,ts,py,java,bash&perline=3&theme=dark" alt="Langages" />
-        </a>
-        <br><br>
-        <h4>⚙️ DevOps</h4>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=docker,linux,githubactions,cloudflare,gcp,ansible&perline=3&theme=dark" alt="DevOps" />
-        </a>
-      </td>
-      <td align="right" valign="top">
-        <h4>📦 Frameworks</h4>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=laravel,vue,nuxtjs,react,tailwind,mysql&perline=3&theme=dark" alt="Frameworks" />
-        </a>
-        <br><br>
-        <h4>🛠️ Outils</h4>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=git,obsidian,figma,neovim,blender,bun&perline=3&theme=dark" alt="Outils" />
-        </a>
-      </td>
-    </tr>
-  </tbody>
+  <tr>
+    <td align="left" valign="top" width="441px">
+      <h4>👨‍💻 Langages</h4>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=php,js,ts,py,java,bash&perline=3&theme=dark" alt="Langages" />
+      </a>
+      <br><br>
+      <h4>⚙️ DevOps</h4>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=docker,linux,githubactions,cloudflare,gcp,ansible&perline=3&theme=dark" alt="DevOps" />
+      </a>
+    </td>
+    <td align="right" valign="top" width="441px">
+      <h4>📦 Frameworks</h4>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=laravel,vue,nuxtjs,react,tailwind,mysql&perline=3&theme=dark" alt="Frameworks" />
+      </a>
+      <br><br>
+      <h4>🛠️ Outils</h4>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,obsidian,figma,neovim,blender,bun&perline=3&theme=dark" alt="Outils" />
+      </a>
+    </td>
+  </tr>
 </table>
 
 ### 📌 Projets Phares
