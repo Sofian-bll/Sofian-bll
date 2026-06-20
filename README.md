@@ -20,8 +20,7 @@
 
 ### 🛠️ Stack Technique
 
-<div align="center">
-  <table width="101%">
+  <table width="100%">
     <tr>
       <th width="25%" align="center">🌐 Web Dev</th>
       <th width="25%" align="center">⚙️ DevOps</th>
@@ -35,11 +34,8 @@
       <td align="center" valign="top"><img src="https://skillicons.dev/icons?i=neovim,figma,blender&perline=2" alt="Tools" /></td>
     </tr>
   </table>
-</div>
 
 ### 📌 Projets Phares
-
-<div align="center">
   <table >
     <tr>
       <td  align="left" valign="center">
@@ -54,7 +50,6 @@
       </td>
     </tr>
   </table>
-</div>
 
 ### 📊 Statistiques GitHub
 
