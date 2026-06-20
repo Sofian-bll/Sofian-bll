@@ -18,61 +18,114 @@
 
 </div>
 
-### 🛠️ Stack Technique
+### 🛠️ Stack Technique — Variantes
+
+#### A — Comptes réels
 
 <table>
   <tr>
-    <td align="left" valign="top">
-      <h4>👨‍💻 Langages & Frameworks</h4>
-      <p>
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-        <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-        <br>
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
-        <img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="Nuxt" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-      </p>
-      <h4>🤖 AI & Agents</h4>
-      <p>
-        <img src="https://img.shields.io/badge/LLM%2FRAG-111113?style=for-the-badge&logo=openai&logoColor=10b981" alt="LLM/RAG" />
-        <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
-        <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
-        <img src="https://img.shields.io/badge/MCP-111113?style=for-the-badge&logo=semanticweb&logoColor=6366f1" alt="MCP" />
-        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-        <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
-      </p>
+    <td align="center" valign="top" width="50%">
+      <h4>👨‍💻 Langages</h4>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=php,js,ts,py,java,bash&perline=3&theme=dark" alt="Langages" />
+      </a>
     </td>
-    <td align="right" valign="top">
-      <h4>⚙️ DevOps & Infra</h4>
-      <p>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-        <img src="https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white" alt="Portainer" />
-        <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
-        <img src="https://img.shields.io/badge/SOPS%2FAge-111113?style=for-the-badge&logo=letsencrypt&logoColor=0093DD" alt="SOPS/Age" />
-        <img src="https://img.shields.io/badge/Nix-5277C3?style=for-the-badge&logo=nixos&logoColor=white" alt="Nix" />
-        <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-      </p>
+    <td align="center" valign="top" width="50%">
+      <h4>📦 Frameworks</h4>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=laravel,vue,nuxtjs,react,tailwind,mysql&perline=3&theme=dark" alt="Frameworks" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <h4>⚙️ DevOps</h4>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=docker,linux,githubactions&perline=3&theme=dark" alt="DevOps" />
+      </a>
+    </td>
+    <td align="center" valign="top" width="50%">
       <h4>🛠️ Outils</h4>
-      <p>
-        <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-        <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
-        <img src="https://img.shields.io/badge/SSH-111113?style=for-the-badge&logo=openssh&logoColor=8cc63f" alt="SSH" />
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-        <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
-        <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian" />
-      </p>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,obsidian,figma,blender,neovim&perline=3&theme=dark" alt="Outils" />
+      </a>
     </td>
   </tr>
 </table>
+
+---
+
+#### B — Rééquilibré
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <h4>👨‍💻 Langages</h4>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=php,js,ts,py,java&perline=3&theme=dark" alt="Langages" />
+      </a>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <h4>📦 Frameworks</h4>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=laravel,vue,nuxtjs,react,tailwind,mysql&perline=3&theme=dark" alt="Frameworks" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <h4>⚙️ DevOps</h4>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=docker,linux,githubactions,bash&perline=2&theme=dark" alt="DevOps" />
+      </a>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <h4>🛠️ Outils</h4>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,obsidian,figma,neovim&perline=2&theme=dark" alt="Outils" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+#### C — Fusion DevOps+Outils
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <h4>👨‍💻 Langages</h4>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=php,js,ts,py,java,bash&perline=3&theme=dark" alt="Langages" />
+      </a>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <h4>📦 Frameworks</h4>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=laravel,vue,nuxtjs,react,tailwind,mysql&perline=3&theme=dark" alt="Frameworks" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" colspan="2">
+      <h4>⚙️ DevOps & 🛠️ Outils</h4>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=docker,linux,githubactions,git,obsidian,figma,blender,neovim&perline=4&theme=dark" alt="DevOps & Outils" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+#### D — Grille Unique
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,js,ts,py,java,bash,laravel,vue,nuxtjs,react,tailwind,mysql,docker,linux,githubactions,git,obsidian,figma,blender,neovim&perline=5&theme=dark" alt="Stack" />
+  </a>
+</p>
 
 ### 📌 Projets Phares
   <table >
