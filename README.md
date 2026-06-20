@@ -1,23 +1,20 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Sora&weight=800&size=46&duration=2000&pause=1000&color=ededef&center=true&vCenter=true&width=600&height=80&lines=Sofian+BELLOUL" />
-  <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=800&size=46&duration=2000&pause=1000&color=111113&center=true&vCenter=true&width=600&height=80&lines=Sofian+BELLOUL" alt="Sofian BELLOUL" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Sora&weight=800&size=46&duration=2000&pause=1000&color=ededef&center=true&vCenter=true&width=880&height=80&lines=Sofian+BELLOUL" />
+  <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=800&size=46&duration=2000&pause=1000&color=111113&center=true&vCenter=true&width=880&height=80&lines=Sofian+BELLOUL" alt="Sofian BELLOUL" />
 </picture>
-
-<img src="https://img.shields.io/badge/D%C3%A9veloppeur_Full--Stack-111113?style=flat-square&logo=codeforces&logoColor=6366f1&labelColor=f0f0f3" />
-<img src="https://img.shields.io/badge/AI_%26_Agents-111113?style=flat-square&logo=openai&logoColor=10b981&labelColor=f0f0f3" />
-<img src="https://img.shields.io/badge/DevOps_%26_Infra-111113?style=flat-square&logo=docker&logoColor=06b6d4&labelColor=f0f0f3" />
-
-<br><br>
-
-<sub>Designer Framer reconverti dev — Laravel, Vue.js, TypeScript. Mon TDAH me pousse à tout optimiser, automatiser et auto-héberger. En recherche d'alternance 14 mois à partir de septembre 2026.</sub>
 
 <br>
 
-<a href="https://sofianbll.dev"><img src="https://img.shields.io/badge/Portfolio-6366f1?style=flat-square&logo=safari&logoColor=white" /></a>
-<a href="https://linkedin.com/in/sofianbll"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:sofian.belloul@epitech.eu"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+> **Ex-webdesigner Framer reconverti dev — Laravel, Vue.js, Java. DJ à mes heures, dev le reste du temps.**
+> *Mon TDAH me pousse à tout optimiser, automatiser et auto-héberger.*<br>*En recherche d'alternance 14 mois à partir de septembre 2026.*
+
+<br>
+
+<a href="https://sofianbll.dev"><img src="https://img.shields.io/badge/Portfolio-6366f1?style=flat&logo=safari&logoColor=white" alt="Portfolio"/></a>
+<a href="https://linkedin.com/in/sofianbll"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:sofian.belloul@epitech.eu"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
 
@@ -25,171 +22,34 @@
 
 ### 🛠️ Stack Technique
 
-<h4 align="center">Badges</h4>
-
-<table align="center"><tr>
-<td align="center" valign="top" width="25%">
-
-**Web Dev**
-
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /><br>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-
-</td>
-<td align="center" valign="top" width="25%">
-
-**DevOps**
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/Portainer-13BEF9?style=flat-square&logo=portainer&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/SOPS%2FAge-111113?style=flat-square&logo=letsencrypt&logoColor=0093DD" /><br>
-<img src="https://img.shields.io/badge/Nix-5277C3?style=flat-square&logo=nixos&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-
-</td>
-<td align="center" valign="top" width="25%">
-
-**AI & Agents**
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/LLM%2FRAG-111113?style=flat-square&logo=openai&logoColor=10b981" /><br>
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/MCP-111113?style=flat-square&logo=semanticweb&logoColor=6366f1" /><br>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
-
-</td>
-<td align="center" valign="top" width="25%">
-
-**Tools & CLI**
-
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/SSH-111113?style=flat-square&logo=openssh&logoColor=8cc63f" /><br>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white" />
-
-</td>
-</tr></table>
-
-<br>
-
-<h4 align="center">Widgetbox</h4>
-
-<p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/skills?languages=php,typescript,go,java&frameworks=laravel,vue,react,tailwindcss&includeNames=true&theme=darkmode" alt="Web Dev" />
-  <img src="https://github-widgetbox.vercel.app/api/skills?tools=docker,git,linux,n8n&includeNames=true&theme=darkmode" alt="DevOps" />
-  <br>
-  <img src="https://github-widgetbox.vercel.app/api/skills?languages=python&includeNames=true&theme=darkmode" alt="AI" />
-  <img src="https://github-widgetbox.vercel.app/api/skills?software=blender,figma,bash&includeNames=true&theme=darkmode" alt="Tools" />
-</p>
+| 🌐 Web Dev <br><img width="220" height="1" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif"> | ⚙️ DevOps <br><img width="220" height="1" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif"> | 🤖 AI & Agents <br><img width="220" height="1" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif"> | 🛠️ Tools <br><img width="220" height="1" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif"> |
+| :---: | :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=php,laravel,vue,nuxt,react,ts,tailwind,mysql&perline=4" alt="Web Dev" /> | <img src="https://skillicons.dev/icons?i=docker,linux,git,bash&perline=2" alt="DevOps" /> | <img src="https://skillicons.dev/icons?i=python&perline=1" alt="AI" /> | <img src="https://skillicons.dev/icons?i=neovim,figma,blender&perline=2" alt="Tools" /> |
 
 ---
 
 ### 📌 Projets Phares
 
-<table align="center"><tr>
-<td width="50%" align="center" valign="top">
-
-<a href="https://github.com/Sofian-bll/Rage-UI"><b>Rage-UI</b></a>
-<br><sub>Dashboard chiffré — SOPS, chiffrement Age & GitOps</sub>
-<br>
-<img src="https://img.shields.io/badge/security-6366f1?style=flat-square" />
-<img src="https://img.shields.io/badge/sops-111113?style=flat-square" />
-<img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black" />
-
-</td>
-<td width="50%" align="center" valign="top">
-
-<a href="https://github.com/Sofian-bll/sskk"><b>sskk</b></a>
-<br><sub>Gestionnaire de clés SSH — CLI sans dépendances</sub>
-<br>
-<img src="https://img.shields.io/badge/ssh-8cc63f?style=flat-square" />
-<img src="https://img.shields.io/badge/cli-111113?style=flat-square" />
-<img src="https://img.shields.io/badge/bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
-
-</td>
-</tr><tr>
-<td width="50%" align="center" valign="top">
-
-<a href="https://github.com/Sofian-bll/pplx-web-query"><b>pplx-web-query</b></a>
-<br><sub>Agent IA — interroge Perplexity via Playwright</sub>
-<br>
-<img src="https://img.shields.io/badge/ai-10b981?style=flat-square" />
-<img src="https://img.shields.io/badge/perplexity-111113?style=flat-square" />
-<img src="https://img.shields.io/badge/playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
-
-</td>
-<td width="50%" align="center" valign="top">
-
-<a href="https://github.com/Sofian-bll/og-image-v2"><b>og-image-v2</b></a>
-<br><sub>Générateur d'images Open Graph — Nuxt/Vue</sub>
-<br>
-<img src="https://img.shields.io/badge/nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-
-</td>
-</tr><tr>
-<td width="50%" align="center" valign="top">
-
-<a href="https://github.com/Sofian-bll/SidecarPatcher"><b>SidecarPatcher</b></a>
-<br><sub>Patch Sidecar macOS — reverse-engineering binaire</sub>
-<br>
-<img src="https://img.shields.io/badge/macos-111113?style=flat-square&logo=apple&logoColor=white" />
-<img src="https://img.shields.io/badge/sidecar-6366f1?style=flat-square" />
-<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white" />
-
-</td>
-<td width="50%" align="center" valign="top">
-
-<a href="https://github.com/Sofian-bll/Soundcloud-Wav-Playlist"><b>scpdl-wav</b></a>
-<br><sub>Télécharge des playlists en WAV lossless</sub>
-<br>
-<img src="https://img.shields.io/badge/soundcloud-FF5500?style=flat-square&logo=soundcloud&logoColor=white" />
-<img src="https://img.shields.io/badge/wav-111113?style=flat-square" />
-<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white" />
-
-</td>
-</tr></table>
+| <img width="440" height="1" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif"> | <img width="440" height="1" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif"> |
+| :---: | :---: |
+| <a href="https://github.com/Sofian-bll/Rage-UI"><b>Rage-UI</b></a><br><sub>Dashboard chiffré — SOPS, chiffrement Age & GitOps</sub><br><br><img src="https://img.shields.io/badge/security-6366f1?style=flat" alt="security" /> <img src="https://img.shields.io/badge/sops-111113?style=flat" alt="sops" /> <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black" alt="react" /> | <a href="https://github.com/Sofian-bll/sskk"><b>sskk</b></a><br><sub>Gestionnaire de clés SSH — CLI sans dépendances</sub><br><br><img src="https://img.shields.io/badge/ssh-8cc63f?style=flat" alt="ssh" /> <img src="https://img.shields.io/badge/cli-111113?style=flat" alt="cli" /> <img src="https://img.shields.io/badge/bash-4EAA25?style=flat&logo=gnubash&logoColor=white" alt="bash" /> |
+| <a href="https://github.com/Sofian-bll/pplx-web-query"><b>pplx-web-query</b></a><br><sub>Agent IA — interroge Perplexity via Playwright</sub><br><br><img src="https://img.shields.io/badge/ai-10b981?style=flat" alt="ai" /> <img src="https://img.shields.io/badge/perplexity-111113?style=flat" alt="perplexity" /> <img src="https://img.shields.io/badge/playwright-2EAD33?style=flat&logo=playwright&logoColor=white" alt="playwright" /> | <a href="https://github.com/Sofian-bll/og-image-v2"><b>og-image-v2</b></a><br><sub>Générateur d'images Open Graph — Nuxt/Vue</sub><br><br><img src="https://img.shields.io/badge/nuxt-00DC82?style=flat&logo=nuxtdotjs&logoColor=white" alt="nuxt" /> <img src="https://img.shields.io/badge/vue-4FC08D?style=flat&logo=vuedotjs&logoColor=white" alt="vue" /> <img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white" alt="typescript" /> |
+| <a href="https://github.com/Sofian-bll/SidecarPatcher"><b>SidecarPatcher</b></a><br><sub>Patch Sidecar macOS — reverse-engineering binaire</sub><br><br><img src="https://img.shields.io/badge/macos-111113?style=flat&logo=apple&logoColor=white" alt="macos" /> <img src="https://img.shields.io/badge/sidecar-6366f1?style=flat" alt="sidecar" /> <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white" alt="python" /> | <a href="https://github.com/Sofian-bll/Soundcloud-Wav-Playlist"><b>scpdl-wav</b></a><br><sub>Télécharge des playlists en WAV lossless</sub><br><br><img src="https://img.shields.io/badge/soundcloud-FF5500?style=flat&logo=soundcloud&logoColor=white" alt="soundcloud" /> <img src="https://img.shields.io/badge/wav-111113?style=flat" alt="wav" /> <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white" alt="python" /> |
 
 ---
 
 ### 📊 Statistiques GitHub
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Sofian-bll&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0c&title_color=ededef&text_color=a1a1aa&icon_color=6366f1&ring_color=6366f1&border_color=1a1a1e" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Sofian-bll&show_icons=true&theme=default&hide_border=true&bg_color=f0f0f3&title_color=111113&text_color=6b6b76&icon_color=6366f1&ring_color=6366f1&border_color=dcdce0" alt="GitHub Stats" height="180" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Sofian-bll&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0c&title_color=ededef&text_color=a1a1aa&border_color=1a1a1e" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sofian-bll&layout=compact&theme=default&hide_border=true&bg_color=f0f0f3&title_color=111113&text_color=6b6b76&border_color=dcdce0" alt="Top Languages" height="180" />
-  </picture>
+  <a href="https://github.com/Sofian-bll">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=Sofian-bll&data=followers,repositories,stars,commits&theme=darkmode" alt="GitHub Profile Widget" />
+  </a>
 </p>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Sofian-bll&hide_border=true&background=0a0a0c&stroke=6366f1&ring=6366f1&fire=6366f1&currStreakNum=ededef&sideNums=ededef&currStreakLabel=ededef&sideLabels=a1a1aa&dates=a1a1aa" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sofian-bll&hide_border=true&background=f0f0f3&stroke=6366f1&ring=6366f1&fire=6366f1&currStreakNum=111113&sideNums=111113&currStreakLabel=111113&sideLabels=6b6b76&dates=6b6b76" alt="Streak Stats" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Sofian-bll&theme=onedark&no-frame=true&margin-w=8&row=1&column=7" />
-    <img src="https://github-profile-trophy.vercel.app/?username=Sofian-bll&theme=flat&no-frame=true&margin-w=8&row=1&column=7" alt="Trophies" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sofian-bll&hide_border=true&background=f0f0f3&stroke=6366f1&ring=6366f1&fire=6366f1&currStreakNum=111113&sideNums=111113&currStreakLabel=111113&sideLabels=6b6b76&dates=6b6b76" alt="Streak Stats" width="880" />
   </picture>
 </p>
 
