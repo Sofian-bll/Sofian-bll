@@ -7,8 +7,11 @@
 
 <br>
 
-> **Ex-webdesigner Framer reconverti dev — Laravel, Vue.js, Java. DJ à mes heures, dev le reste du temps.**
-> *Mon TDAH me pousse à tout optimiser, automatiser et auto-héberger.*<br>*En recherche d'alternance 14 mois à partir de septembre 2026.*
+> **Creative Developer | Epitech Paris**
+> *Des idées au code. Accessoirement DJ.*</br>
+> *Mon TDAH me pousse à tout optimiser, automatiser et auto-héberger.*</br>
+
+**En recherche d'alternance 14 mois à partir de septembre 2026.**
 
 <br>
 
@@ -27,7 +30,7 @@
 
 <table>
   <tr>
-    <td align="left" valign="top" width="441px">
+    <td align="left" valign="center" width="441px">
       <h4>👨‍💻 Langages</h4>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=php,js,ts,py,java,bash&perline=3&theme=dark" alt="Langages" />
@@ -38,7 +41,7 @@
         <img src="https://skillicons.dev/icons?i=docker,linux,githubactions,cloudflare,gcp,ansible&perline=3&theme=dark" alt="DevOps" />
       </a>
     </td>
-    <td align="right" valign="top" width="441px">
+    <td align="right" valign="center" width="441px">
       <h4>📦 Frameworks</h4>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=laravel,vue,nuxtjs,react,tailwind,mysql&perline=3&theme=dark" alt="Frameworks" />

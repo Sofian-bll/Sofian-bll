@@ -7,7 +7,8 @@
 
 <br>
 
-> **Ex-Framer web designer turned developer — Laravel, Vue.js, Java. DJ by night, dev the rest of the time.**</br>
+> **Creative Developer | Epitech Paris**
+> *Turning ideas into products. Also makes music.*</br>
 > *My ADHD drives me to optimize, automate, and self-host everything.*</br>
 
 **Looking for a 14-month apprenticeship starting September 2026.**
