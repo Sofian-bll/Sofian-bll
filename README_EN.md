@@ -5,13 +5,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=800&size=46&duration=2000&pause=1000&color=111113&center=true&vCenter=true&width=600&height=80&lines=Sofian+BELLOUL" alt="Sofian BELLOUL" />
 </picture>
 
-<img src="https://img.shields.io/badge/D%C3%A9veloppeur_Full--Stack-111113?style=flat-square&logo=codeforces&logoColor=6366f1&labelColor=f0f0f3" />
+<img src="https://img.shields.io/badge/Full--Stack_Web_Dev-111113?style=flat-square&logo=codeforces&logoColor=6366f1&labelColor=f0f0f3" />
 <img src="https://img.shields.io/badge/AI_%26_Agents-111113?style=flat-square&logo=openai&logoColor=10b981&labelColor=f0f0f3" />
 <img src="https://img.shields.io/badge/DevOps_%26_Infra-111113?style=flat-square&logo=docker&logoColor=06b6d4&labelColor=f0f0f3" />
 
 <br><br>
 
-<sub>Designer Framer reconverti dev — Laravel, Vue.js, TypeScript. Mon TDAH me pousse à tout optimiser, automatiser et auto-héberger. En recherche d'alternance 14 mois à partir de septembre 2026.</sub>
+<sub>Framer designer turned developer — Laravel, Vue.js, TypeScript. My ADHD drives me to optimize, automate, and self-host everything. Looking for a 14-month apprenticeship starting September 2026.</sub>
 
 <br>
 
@@ -23,7 +23,7 @@
 
 ---
 
-### 🛠️ Stack Technique
+### 🛠️ Tech Stack
 
 <h4 align="center">Badges</h4>
 
@@ -97,13 +97,13 @@
 
 ---
 
-### 📌 Projets Phares
+### 📌 Featured Projects
 
 <table align="center"><tr>
 <td width="50%" align="center" valign="top">
 
 <a href="https://github.com/Sofian-bll/Rage-UI"><b>Rage-UI</b></a>
-<br><sub>Dashboard chiffré — SOPS, chiffrement Age & GitOps</sub>
+<br><sub>Encrypted secrets dashboard — SOPS, Age encryption & GitOps</sub>
 <br>
 <img src="https://img.shields.io/badge/security-6366f1?style=flat-square" />
 <img src="https://img.shields.io/badge/sops-111113?style=flat-square" />
@@ -113,7 +113,7 @@
 <td width="50%" align="center" valign="top">
 
 <a href="https://github.com/Sofian-bll/sskk"><b>sskk</b></a>
-<br><sub>Gestionnaire de clés SSH — CLI sans dépendances</sub>
+<br><sub>SSH key manager — zero-dependency CLI</sub>
 <br>
 <img src="https://img.shields.io/badge/ssh-8cc63f?style=flat-square" />
 <img src="https://img.shields.io/badge/cli-111113?style=flat-square" />
@@ -124,7 +124,7 @@
 <td width="50%" align="center" valign="top">
 
 <a href="https://github.com/Sofian-bll/pplx-web-query"><b>pplx-web-query</b></a>
-<br><sub>Agent IA — interroge Perplexity via Playwright</sub>
+<br><sub>AI agent — queries Perplexity via Playwright browser automation</sub>
 <br>
 <img src="https://img.shields.io/badge/ai-10b981?style=flat-square" />
 <img src="https://img.shields.io/badge/perplexity-111113?style=flat-square" />
@@ -134,7 +134,7 @@
 <td width="50%" align="center" valign="top">
 
 <a href="https://github.com/Sofian-bll/og-image-v2"><b>og-image-v2</b></a>
-<br><sub>Générateur d'images Open Graph — Nuxt/Vue</sub>
+<br><sub>Open Graph image generator — Nuxt/Vue + TypeScript</sub>
 <br>
 <img src="https://img.shields.io/badge/nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
@@ -145,7 +145,7 @@
 <td width="50%" align="center" valign="top">
 
 <a href="https://github.com/Sofian-bll/SidecarPatcher"><b>SidecarPatcher</b></a>
-<br><sub>Patch Sidecar macOS — reverse-engineering binaire</sub>
+<br><sub>macOS Sidecar patcher — binary reverse-engineering</sub>
 <br>
 <img src="https://img.shields.io/badge/macos-111113?style=flat-square&logo=apple&logoColor=white" />
 <img src="https://img.shields.io/badge/sidecar-6366f1?style=flat-square" />
@@ -155,7 +155,7 @@
 <td width="50%" align="center" valign="top">
 
 <a href="https://github.com/Sofian-bll/Soundcloud-Wav-Playlist"><b>scpdl-wav</b></a>
-<br><sub>Télécharge des playlists en WAV lossless</sub>
+<br><sub>Downloads tracks from playlist in lossless WAV</sub>
 <br>
 <img src="https://img.shields.io/badge/soundcloud-FF5500?style=flat-square&logo=soundcloud&logoColor=white" />
 <img src="https://img.shields.io/badge/wav-111113?style=flat-square" />
@@ -166,7 +166,7 @@
 
 ---
 
-### 📊 Statistiques GitHub
+### 📊 GitHub Stats
 
 <p align="center">
   <picture>
@@ -196,7 +196,7 @@
 ---
 
 <p align="center">
-  🌐 <a href="README_EN.md">English version</a>
+  🌐 <a href="README.md">Version française</a>
 </p>
 
 <p align="center">
