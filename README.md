@@ -23,7 +23,7 @@
 
 </div>
 
-### 🛠️ Stack Technique
+<h3 align="center">🛠️ Stack Technique 🛠️</h3>
 
 <table>
   <tr>
@@ -52,7 +52,7 @@
   </tr>
 </table>
 
-### 📌 Projets Phares
+<h3 align="center">✨ Projets Phares ✨</h3>
   <table >
     <tr>
       <td  align="left" valign="center">
