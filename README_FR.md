@@ -7,7 +7,7 @@
 
 <br>
 
-> **Creative Developer | Epitech Paris**
+> **Creative Developer | Epitech Paris**</br>
 > *Des idées au code. Accessoirement DJ.*</br>
 > *Mon TDAH me pousse à tout optimiser, automatiser et auto-héberger.*</br>
 
@@ -28,7 +28,7 @@
 
 <h3 align="center">🛠️ Stack Technique 🛠️</h3>
 
-<table>
+<table align="center">
   <tr>
     <td align="left" valign="center" width="441px">
       <h4>👨‍💻 Langages</h4>
