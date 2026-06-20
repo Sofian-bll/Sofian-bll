@@ -7,8 +7,10 @@
 
 <br>
 
-> **Ex-Framer web designer turned developer — Laravel, Vue.js, Java. DJ by night, dev the rest of the time.**
-> *My ADHD drives me to optimize, automate, and self-host everything.*<br>*Looking for a 14-month apprenticeship starting September 2026.*
+> **Ex-Framer web designer turned developer — Laravel, Vue.js, Java. DJ by night, dev the rest of the time.**</br>
+> *My ADHD drives me to optimize, automate, and self-host everything.*</br>
+
+**Looking for a 14-month apprenticeship starting September 2026.**
 
 <br>
 
@@ -25,9 +27,9 @@
 
 <h3 align="center">🛠️ Tech Stack 🛠️</h3>
 
-<table>
+<table align="center">
   <tr>
-    <td align="left" valign="top" width="441px">
+    <td align="left" valign="center" width="441px">
       <h4>👨‍💻 Languages</h4>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=php,js,ts,py,java,bash&perline=3&theme=dark" alt="Languages" />
@@ -38,7 +40,7 @@
         <img src="https://skillicons.dev/icons?i=docker,linux,githubactions,cloudflare,gcp,ansible&perline=3&theme=dark" alt="DevOps" />
       </a>
     </td>
-    <td align="right" valign="top" width="441px">
+    <td align="right" valign="center" width="441px">
       <h4>📦 Frameworks</h4>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=laravel,vue,nuxtjs,react,tailwind,mysql&perline=3&theme=dark" alt="Frameworks" />
