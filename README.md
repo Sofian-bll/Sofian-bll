@@ -7,7 +7,7 @@
 
 <br>
 
-> **Creative Developer | Epitech Paris**
+> **Creative Developer | Epitech Paris**</br>
 > *Turning ideas into products. Also makes music.*</br>
 > *My ADHD drives me to optimize, automate, and self-host everything.*</br>
 
