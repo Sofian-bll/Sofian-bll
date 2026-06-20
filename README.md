@@ -18,19 +18,17 @@
 
 </div>
 
-### 🛠️ Stack Technique — Variantes
-
-#### A — Comptes réels
+### 🛠️ Stack Technique
 
 <table>
   <tr>
-    <td align="center" valign="top" width="50%">
+    <td align="left" valign="top" width="50%">
       <h4>👨‍💻 Langages</h4>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=php,js,ts,py,java,bash&perline=3&theme=dark" alt="Langages" />
       </a>
     </td>
-    <td align="center" valign="top" width="50%">
+    <td align="right" valign="top" width="50%">
       <h4>📦 Frameworks</h4>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=laravel,vue,nuxtjs,react,tailwind,mysql&perline=3&theme=dark" alt="Frameworks" />
@@ -38,94 +36,20 @@
     </td>
   </tr>
   <tr>
-    <td align="center" valign="top" width="50%">
+    <td align="left" valign="top" width="50%">
       <h4>⚙️ DevOps</h4>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=docker,linux,githubactions&perline=3&theme=dark" alt="DevOps" />
+        <img src="https://skillicons.dev/icons?i=docker,linux,githubactions,cloudflare,gcp,ansible&perline=3&theme=dark" alt="DevOps" />
       </a>
     </td>
-    <td align="center" valign="top" width="50%">
+    <td align="right" valign="top" width="50%">
       <h4>🛠️ Outils</h4>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,obsidian,figma,blender,neovim&perline=3&theme=dark" alt="Outils" />
+        <img src="https://skillicons.dev/icons?i=git,obsidian,figma,neovim,blender,bun&perline=3&theme=dark" alt="Outils" />
       </a>
     </td>
   </tr>
 </table>
-
----
-
-#### B — Rééquilibré
-
-<table>
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <h4>👨‍💻 Langages</h4>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=php,js,ts,py,java&perline=3&theme=dark" alt="Langages" />
-      </a>
-    </td>
-    <td align="center" valign="top" width="50%">
-      <h4>📦 Frameworks</h4>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=laravel,vue,nuxtjs,react,tailwind,mysql&perline=3&theme=dark" alt="Frameworks" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <h4>⚙️ DevOps</h4>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=docker,linux,githubactions,bash&perline=2&theme=dark" alt="DevOps" />
-      </a>
-    </td>
-    <td align="center" valign="top" width="50%">
-      <h4>🛠️ Outils</h4>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,obsidian,figma,neovim&perline=2&theme=dark" alt="Outils" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-#### C — Fusion DevOps+Outils
-
-<table>
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <h4>👨‍💻 Langages</h4>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=php,js,ts,py,java,bash&perline=3&theme=dark" alt="Langages" />
-      </a>
-    </td>
-    <td align="center" valign="top" width="50%">
-      <h4>📦 Frameworks</h4>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=laravel,vue,nuxtjs,react,tailwind,mysql&perline=3&theme=dark" alt="Frameworks" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" colspan="2">
-      <h4>⚙️ DevOps & 🛠️ Outils</h4>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=docker,linux,githubactions,git,obsidian,figma,blender,neovim&perline=4&theme=dark" alt="DevOps & Outils" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-#### D — Grille Unique
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,js,ts,py,java,bash,laravel,vue,nuxtjs,react,tailwind,mysql,docker,linux,githubactions,git,obsidian,figma,blender,neovim&perline=5&theme=dark" alt="Stack" />
-  </a>
-</p>
 
 ### 📌 Projets Phares
   <table >
