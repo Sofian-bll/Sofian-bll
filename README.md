@@ -22,7 +22,8 @@
 
 <table>
   <tr>
-    <td align="left" valign="top" width="50%">
+    <th align="left" valign="top">
+      <img width="441" height="1">
       <h4>👨‍💻 Langages</h4>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=php,js,ts,py,java,bash&perline=3&theme=dark" alt="Langages" />
@@ -32,8 +33,9 @@
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=docker,linux,githubactions,cloudflare,gcp,ansible&perline=3&theme=dark" alt="DevOps" />
       </a>
-    </td>
-    <td align="right" valign="top" width="50%">
+    </th>
+    <th align="right" valign="top">
+      <img width="441" height="1">
       <h4>📦 Frameworks</h4>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=laravel,vue,nuxtjs,react,tailwind,mysql&perline=3&theme=dark" alt="Frameworks" />
@@ -43,7 +45,7 @@
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=git,obsidian,figma,neovim,blender,bun&perline=3&theme=dark" alt="Outils" />
       </a>
-    </td>
+    </th>
   </tr>
 </table>
 
