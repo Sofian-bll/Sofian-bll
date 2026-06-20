@@ -28,65 +28,32 @@
 
 <h3 align="center">🛠️ Tech Stack 🛠️</h3>
 
-<h4 align="center">perline=3</h4>
-
 <table align="center">
   <tr>
-    <td align="center" valign="top" width="220px">
-      <h4>👨‍💻 Languages</h4>
+    <th width="220px">👨‍💻 Languages</th>
+    <th width="220px">📦 Frameworks</th>
+    <th width="220px">⚙️ DevOps</th>
+    <th width="220px">🛠️ Tools</th>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=php,js,ts,py,java,bash&perline=3&theme=dark" alt="Languages" />
       </a>
     </td>
-    <td align="center" valign="top" width="220px">
-      <h4>📦 Frameworks</h4>
+    <td align="center">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=laravel,vue,nuxtjs,react,tailwind,mysql&perline=3&theme=dark" alt="Frameworks" />
       </a>
     </td>
-    <td align="center" valign="top" width="220px">
-      <h4>⚙️ DevOps</h4>
+    <td align="center">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=docker,linux,githubactions,cloudflare,gcp,ansible&perline=3&theme=dark" alt="DevOps" />
       </a>
     </td>
-    <td align="center" valign="top" width="220px">
-      <h4>🛠️ Tools</h4>
+    <td align="center">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=git,obsidian,figma,neovim,blender,bun&perline=3&theme=dark" alt="Tools" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<h4 align="center">perline=2</h4>
-
-<table align="center">
-  <tr>
-    <td align="center" valign="top" width="220px">
-      <h4>👨‍💻 Languages</h4>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=php,js,ts,py,java,bash&perline=2&theme=dark" alt="Languages" />
-      </a>
-    </td>
-    <td align="center" valign="top" width="220px">
-      <h4>📦 Frameworks</h4>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=laravel,vue,nuxtjs,react,tailwind,mysql&perline=2&theme=dark" alt="Frameworks" />
-      </a>
-    </td>
-    <td align="center" valign="top" width="220px">
-      <h4>⚙️ DevOps</h4>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=docker,linux,githubactions,cloudflare,gcp,ansible&perline=2&theme=dark" alt="DevOps" />
-      </a>
-    </td>
-    <td align="center" valign="top" width="220px">
-      <h4>🛠️ Tools</h4>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,obsidian,figma,neovim,blender,bun&perline=2&theme=dark" alt="Tools" />
       </a>
     </td>
   </tr>
